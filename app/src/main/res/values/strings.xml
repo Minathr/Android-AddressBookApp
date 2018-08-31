@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Se7Ex1</string>
+
+    <string name="title_activity_add">Add a Contact</string>
+    <string name="title_activity_update">Update Contact</string>
+    <string name="title_activity_delete">Delete Contact</string>
+    <string name="title_activity_view">View Contact</string>
+
+    <string name="label_id">Contact ID : </string>
+    <string name="label_name">Name : </string>
+    <string name="label_phone">Phone : </string>
+    <string name="label_email">E-mail : </string>
+    <string name="label_address">Street Address : </string>
+    <string name="label_city">City : </string>
+    <string name="label_statecode">State Code : </string>
+
+    <string name="btn_save">Save Contact</string>
+    <string name="btn_update">Update Contact</string>
+    <string name="btn_delete">Delete Contact</string>
+
+</resources>
